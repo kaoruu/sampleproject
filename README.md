@@ -1,4 +1,4 @@
 sampleproject
 =============
 
-these is my sample repository
+this is my sample repository
